@@ -1,0 +1,12 @@
+import turtle
+turtle.bgcolor("blue")
+
+my_turtle = turtle.Turtle()
+my_turtle.pensize("10")
+my_turtle.shape("tringle")
+
+my_sushant2 = turtle.Turtle()
+my_turtle.pensize("9")
+my_sushant2.shape("square")
+
+my_turtle2.forward(100)
